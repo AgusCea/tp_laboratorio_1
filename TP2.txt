@@ -1,4 +1,0 @@
-Devido a la falla de Codeblocks y Eclipse en mi computadora me veo obligado a realizar el trabajo completo en GDB.
-Dejo el enlace a continuación.
-
-https://onlinegdb.com/HyKn-G05U
